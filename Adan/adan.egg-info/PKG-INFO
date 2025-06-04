@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: adan
+Version: 0.0.2
+Summary: Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models
+Author: Xie, Xingyu and Zhou, Pan and Li, Huan and Lin, Zhouchen and Yan, Shuicheng
+Requires-Python: >=3.8
+License-File: LICENSE
+Requires-Dist: torch
+Dynamic: author
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
