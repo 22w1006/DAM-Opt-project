@@ -17,11 +17,17 @@ DAM is a novel optimization algorithm designed for deep learning models. This re
 
 ## Benchmark Results
 
-(Include your benchmark results comparing DAM vs Adan here. You may want to add:
-- Convergence speed comparison
-- Final accuracy metrics
-- Memory usage statistics
-- Training time comparisons)
+<div align="center">
+  <img src="https://github.com/22w1006/DAM-Opt-project/figures/benchmark1.png">
+</div>
+
+<div align="center">
+  <img src="https://github.com/22w1006/DAM-Opt-project/figures/table1.png">
+</div>
+
+<div align="center">
+  <img src="https://github.com/22w1006/DAM-Opt-project/figures/table2.png">
+</div>
 
 ## Installation
 
